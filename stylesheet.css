@@ -25,34 +25,9 @@ li a:hover {
     background-color: red;
 }
 body  {
-    background-image: url("Vwy4.gif");
+    background-color: lightblue;
 }
-section{
-    width: 10%;
-    margin-left: auto;
-    margin-right: auto;
-}
-section {
 
-  float: left;
-  margin: 0 0%;
-  width: 50%;
-}
-aside {
-  float: right;
-  margin: 0 0%;
-  width: 35%;
-    
-}
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: red;
-   color: white;
-   text-align: center;
-}
 div {
   background-color: #333;
   width: 700px;
