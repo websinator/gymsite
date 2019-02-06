@@ -27,3 +27,5 @@ li a:hover {
 body  {
     background-color: #FF0033 ;
 }
+#border-3 .border { border-width: 15px; border-color: red; } #border-3 .mixed { border-style: solid dashed dotted double; } 
+
